@@ -3,6 +3,7 @@ import { View, Text, StyleSheet, TouchableOpacity, SafeAreaView, Dimensions, But
 import WalletBackup from '../../compnents/WalletComponents/WalletBackup';
 import WallteBalance from '../../compnents/WalletComponents/WalletBalance';
 import FontAwesome from 'react-native-vector-icons/FontAwesome'
+
 import Card from '../../compnents/WalletComponents/Card';
 import { data } from '../../StaticData/data'
 
